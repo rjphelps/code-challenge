@@ -30,6 +30,7 @@
 @media screen and (min-width:769px) and (max-width: 1200px) {
 .img-fluid {
   margin-bottom: 27px;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -37,3 +38,4 @@
     margin-top: 35px;
 	width:100%;
   }
+}
