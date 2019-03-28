@@ -1,0 +1,39 @@
+/* list styles */
+.container {
+	padding:35px 0 35px;
+}
+
+.dropdown {
+	margin: 25px 0 20px 2px;
+}
+
+.dropdown-toggle::after {
+    margin-left: 1.5em;
+}
+
+.list-container {
+	background: #fff;
+	border: solid 1px #e0e0e0;
+	padding:25px;
+}
+
+.list-title {
+	width:100%;
+	font-weight: bold;
+	padding-bottom:12px;
+}
+
+.list-body {
+	width:100%;
+}
+
+@media screen and (min-width:769px) and (max-width: 1200px) {
+.img-fluid {
+  margin-bottom: 27px;
+}
+
+@media screen and (max-width: 768px) {
+.img-fluid {
+    margin-top: 35px;
+	width:100%;
+  }
